@@ -1,4 +1,4 @@
-![Detail Reading 1](https://github.com/user-attachments/assets/ac4367f1-c8fb-49fd-87a8-a318c958359b)![Detail Book](https://github.com/user-attachments/assets/84e9655e-910f-437d-a766-b471cfa00ff9)# BookBase App
+# BookBase App
 
 BookBase is a mobile application that allows users to explore books, read their details, and manage their reading progress. The app offers a wide selection of books with detailed information, including book title, author, genre, pages, and synopses. Users can also view detailed profiles of their favorite authors and continue reading books they have saved.
 
@@ -41,10 +41,10 @@ BookBase is a mobile application that allows users to explore books, read their 
 4. Save books to continue reading them later from the Saved Books section.
 5. Navigate to your profile to view your details.
 
-Technology Used
+## Technology Used
 Kotlin: The main programming language for the app.
 Jetpack Compose: A modern framework for building Android app UIs.
 Room Database: For storing user hydration records locally.
 
-Support
+## Support
 Always support me, thank you!!!
